@@ -64,7 +64,7 @@ arcolinux-local-xfce4-git
 xdgmenumaker
 arcolinux-icewm-git
 arcolinux-icewm-dconf-git
-arcolinux-config-icewm-git
+arcolinux-config-all-desktops-git
 dmenu
 )
 
