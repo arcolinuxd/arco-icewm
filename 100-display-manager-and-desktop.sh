@@ -52,6 +52,7 @@ arcolinux-wallpapers-git
 icewm
 xterm
 feh
+xdgmenumaker-git
 )
 
 count=0
