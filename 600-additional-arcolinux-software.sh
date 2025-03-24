@@ -61,7 +61,6 @@ thunar-volman
 xfce4-terminal
 arconet-xfce
 arcolinux-local-xfce4-git
-xdgmenumaker
 arcolinux-icewm-git
 arcolinux-dconf-all-desktops-git
 arcolinux-config-all-desktops-git
